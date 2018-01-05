@@ -1,6 +1,10 @@
+<<<<<<< Updated upstream
 
 asdfaf
 
 1222
 
 2
+=======
+asdfaf
+>>>>>>> Stashed changes
